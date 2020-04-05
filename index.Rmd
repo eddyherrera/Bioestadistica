@@ -2,5 +2,5 @@
 title: "My Website"
 ---
 
-Hello, Website!
-##  Hola Bienvenidos a mi página
+Hello, Website!  
+##Hola Bienvenidos a mi página

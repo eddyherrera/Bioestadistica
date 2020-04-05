@@ -2,4 +2,4 @@
 title: "About This Website"
 ---
 
-Aqui información de modelación estadística.
+Aqui información de modelación con R.
